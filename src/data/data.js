@@ -1,10 +1,13 @@
 
 
 import Yourtube from '../assets/projects/Yourtube.png'
+
 import Flashcard from '../assets/projects/Flashcard.png'
 import Weathers from '../assets/projects/weather.png'
 import  SpotifyClone from '../assets/projects/SpotifyClone.png'
 import SnakeGame from '../assets/projects/SnakeGame.png'
+import Muzik from "../assets/projects/muzik.png"
+import Receipe from "../assets/projects/Receipe.png"
 
 export const data=[
 
@@ -50,6 +53,20 @@ export const data=[
         github:"https://github.com/PriyaSingh34/flashcard-generator",
         live:"https://flashcard-generator-sable.vercel.app/",
     },
+    {
+        id:6,
+        name:"React JS Application",
+        image:Muzik,
+        github:"https://github.com/PriyaSingh34/my_muzik",
+        live:"https://my-muzik.vercel.app/",
+    },
+    {
+        id:7,
+        name:"React JS Application",
+        image:Receipe,
+        github:"https://github.com/PriyaSingh34/Receipe_app",
+        live:"https://receipe-app-ivory.vercel.app/",
+    }
 
 
 
